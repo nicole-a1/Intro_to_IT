@@ -1,0 +1,120 @@
+html, body {
+  background: #F2F2F8;
+}
+
+#maincontent{
+  width: 90%;
+  max-width: 900px;
+  margin: 30px auto;
+}
+
+.contactheader{
+  padding-top: 10px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #8A3A2E;
+}
+
+#name h1{
+  padding-top: 10px;
+  text-align: center;
+  padding-bottom: 1px;
+}
+
+#details ul{
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#profilepic img{
+  padding-top: 20px;
+  padding-bottom: 40px;
+  float: right;
+}
+
+#contents h2{
+  text-align: left;
+  margin-left: 30px;
+}
+
+#contents ul{
+  margin-left: 0px;
+}
+
+#profile h2{
+  text-align: left;
+  padding-top: 20px;
+  padding-bottom: 2px;
+  margin-left: 30px;
+}
+#profile img{
+  max-height: 20%;
+  max-width: auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  color: #8A3A2E;
+}
+
+h2 {
+  text-align: center;
+  font-size: 25px;
+  color: #B84E3D;
+}
+
+h3 {
+  text-align: left;
+  margin-left: 30px;
+  text-decoration: underline;
+  color: #A0836A
+}
+
+h4 {
+  text-align: left;
+  margin-left: 30px;
+  color: #309C76;
+  font-size: 20px;
+}
+
+#job h3{
+  text-align: center;
+}
+
+p{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding: 3px;
+  font-family: Arial;
+  color: #243156;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul li {
+  font-family: Arial;
+  color: #243156;
+  margin-left: 55px;
+}
+
+.responsive{
+  width: 75%;
+  height: auto;
+}
+
+table, th, td {
+  text-align: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
